@@ -1,0 +1,10 @@
+.app {
+    height: 100vh;
+    padding-top: 60px;
+    position: relative;
+    width: 100%;
+}
+
+@media(max-width: 480px) {
+
+}

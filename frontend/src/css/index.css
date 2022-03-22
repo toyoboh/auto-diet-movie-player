@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+
+    --black-1: #000000;
+    --black-2: #303133; /* base text & input text */
+    --black-3: #606266;
+    --black-4: #909399;
+    --black-5: #C0C4CC; /* placeholder text */
+    --black-6: #DCDFE6; /* Base Border */
+    --black-7: #E4E7ED; /* Light Border */
+    --black-8: #EBEEF5; /* Lighter Border & hover */
+    --black-9: #F2F6FC; /* Extra Light Border & input backgroud & hover */
+
+    --white-1: #FFFFFF;
+
+    --green-1: #44A514;
+    --green-2: #67C23A;
+    --green-3: #7ec959;
+    --green-4: #94df6f;
+    --green-5: #a6e487;
+    --green-6: #d6f5c6;
+    --green-7: #def3d3;
+    --green-8: #F0F9EB;
+
+    --blue-1: #007FFE;
+    --blue-2: #409EFF;
+    --blue-3: #53A8FF;
+    --blue-4: #79BBFF;
+    --blue-5: #8CC5FF;
+    --blue-6: #B3D8FF;
+    --blue-7: #C6E2FF;
+    --blue-8: #ECF5FF;
+
+    --red-1: #d35c5c;
+    --red-2: #F56C6C;
+    --red-3: #F07F7F;
+    --red-4: #F29898;
+    --red-5: #EEAFAF;
+    --red-6: #fbc4c4;
+    --red-7: #f2cccc;
+    --red-8: #fef0f0;
+}

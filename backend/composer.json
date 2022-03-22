@@ -1,0 +1,7 @@
+{
+    "autoload": {
+        "psr-4": {
+            "toyo-product.com\\": "src/"
+        }
+    }
+}
